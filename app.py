@@ -134,7 +134,7 @@ app.layout = html.Div(children=[
                            html.Div(className='four columns div-user-controls',
                                     children = [
                                         html.P('Crop recommendation application', style = {'font-size': '35px'}),
-                                        html.H2('1. Precision agriculture is currently popular. It helps farmers to develop intelligent agricultural strategies.', style = {'font-size': '20px'}),
+                                        html.H2('1. The below form is for manually getting crop recommendation.', style = {'font-size': '20px'}),
                                         html.H2('2. Based on seven characteristics, this application will recommend the ideal crop for farmers to grow on their fileds.', style = {'font-size': '20px'}),
                                         html.Br(),
                                         html.Div([
